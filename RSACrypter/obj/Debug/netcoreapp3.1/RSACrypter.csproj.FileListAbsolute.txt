@@ -1,0 +1,16 @@
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\bin\Debug\netcoreapp3.1\RSACrypter.exe
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\bin\Debug\netcoreapp3.1\RSACrypter.deps.json
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\bin\Debug\netcoreapp3.1\RSACrypter.runtimeconfig.json
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\bin\Debug\netcoreapp3.1\RSACrypter.runtimeconfig.dev.json
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\bin\Debug\netcoreapp3.1\RSACrypter.dll
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\bin\Debug\netcoreapp3.1\RSACrypter.pdb
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\obj\Debug\netcoreapp3.1\RSACrypter.csprojAssemblyReference.cache
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\obj\Debug\netcoreapp3.1\RSACrypter.AssemblyInfoInputs.cache
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\obj\Debug\netcoreapp3.1\RSACrypter.AssemblyInfo.cs
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\obj\Debug\netcoreapp3.1\RSACrypter.csproj.CoreCompileInputs.cache
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\obj\Debug\netcoreapp3.1\RSACrypter.csproj.CopyComplete
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\obj\Debug\netcoreapp3.1\RSACrypter.dll
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\obj\Debug\netcoreapp3.1\RSACrypter.pdb
+C:\Users\lazar\Desktop\Integers-main\Integers\RSACrypter\obj\Debug\netcoreapp3.1\RSACrypter.genruntimeconfig.cache
